@@ -1,0 +1,14 @@
+{
+  "project_id": "T6ZDkLZs",
+  "curseforge_project_id": "1429220",
+  "curseforge_slug": "sleep-anytime-you-want",
+  "loaders": [
+    "datapack"
+  ],
+  "game_versions": [
+    "1.21.11"
+  ],
+  "version_type": "release",
+  "dependencies": "",
+  "discord_role_id": "1458241345926992005"
+}

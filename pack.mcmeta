@@ -1,0 +1,41 @@
+{
+  "pack": {
+		"min_format": [88,0],
+		"max_format": [999,0],
+		"pack_format": 88,
+		"supported_formats": [88,999],
+    "description": [
+      {
+        "text": "\"Sleep Anytime You Want\" (sleepanytimeyouwant)"
+      },
+      "\n",
+      {
+        "text": "Sleep at any time, during day or night. Can also increase tick speed",
+        "color": "#aaaaaa"
+      },
+      "\n\n",
+      {
+        "text": "Version "
+      },
+      {
+        "text": "1.0.0",
+        "color": "#55ff55"
+      },
+      {
+        "text": " for Minecraft "
+      },
+      {
+        "text": "1.21.11+",
+        "color": "#55ff55"
+      },
+      "\n",
+      {
+        "text": "by "
+      },
+      {
+        "text": "Jodek",
+        "color": "#ffff55"
+      }
+    ]
+  }
+}
