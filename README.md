@@ -1,31 +1,30 @@
-# Sleep Anytime You Want
-
-<div style="display: flex; gap: 20px;">
-<a href="https://ko-fi.com/H2H011LYHJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/></a>
+<div align="center">
   
-<a href="https://github.com/sponsors/Jodekq" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-Jodek-green?style=for-the-badge&logo=github&logoWidth=20" alt="Sponsor @Jodek" />
-</a>
+![sleep anytime you want datapack/mod title image minecraft](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/titles/sleep_anytime_you_want.png)
+
 </div>
 
-###
+<div align="center">
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
-  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
- </picture><br>
- 
-Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or create an issue on github_
+[![jodeks datapacks discord](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
+[![jodeks datapacks matrix](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Matrix.png)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
+[![sleep anytime you want minecraft datapack github issues](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Issues.png)](https://github.com/jodeks-datapacks/sleep-anytime-you-want/issues)&nbsp;&nbsp;
+[![jodeks datapacks kofi](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
+[![github sponsor jodek](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Sponsor.png)](https://github.com/sponsors/Jodekq)
+
+</div>
+
+<div align="center">
+  
+## Showcase
+
+![minecraft bed sleeping anytime sleep day skip to night skip day minecraft sleeping day sleep day](https://github.com/jodeks-datapacks/Assets/blob/main/gifs/sleepanytimeyouwant-day-to-night.gif?raw=true)
+
+</div>
 
 ## How It Works
 
-You need to rejoin or restart the server for the datapack to load properly
-
-### Without the [Sleep](https://modrinth.com/datapack/sleep) Datapack
-
-You can skip the day, but it will **instantly** jump to the next one
-
-### With the [Sleep](https://modrinth.com/datapack/sleep) Datapack Installed
+_You need to rejoin or restart the server for the datapack to load properly_
 
 - You **won’t automatically wake up** --> you have to **stand up manually**
 
@@ -34,10 +33,6 @@ You can skip the day, but it will **instantly** jump to the next one
   - To skip back to day, you or another player must start sleeping again
 
 - After skipping from night to day, there’s a cooldown before you can skip the day again
-
-## Showcase
-
-![minecraft bed sleeping anytime sleep day skip to night skip day minecraft sleeping day sleep day](https://github.com/jodeks-datapacks/Assets/blob/main/gifs/sleepanytimeyouwant-day-to-night.gif?raw=true)
 
 ## Guides
 

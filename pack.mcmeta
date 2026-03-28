@@ -1,28 +1,40 @@
 {
   "pack": {
-		"min_format": [88,0],
-		"max_format": [999,0],
-		"pack_format": 88,
-		"supported_formats": [88,999],
+    "min_format": [88, 0],
+    "max_format": [999, 0],
+    "pack_format": 88,
+    "supported_formats": [88, 999],
     "description": [
       {
-        "text": "\"Sleep Anytime You Want\" (sleepanytimeyouwant)"
+        "text": "\"Sleep Anytime You Want\" (sleep_anytime_you_want)"
       },
       "\n",
       {
-        "text": "Sleep at any time, during day or night. Can also increase tick speed",
+        "translate": "sleep_anytime_you_want.description",
+        "fallback": "Sleep at any time, during day or night. Can also increase tick speed",
         "color": "#aaaaaa"
       },
       "\n\n",
       {
-        "text": "Version "
+        "translate": "jodek.version",
+        "fallback": "Version"
+      },
+      {
+        "text": " "
       },
       {
         "text": "1.0.0",
         "color": "#55ff55"
       },
       {
-        "text": " for Minecraft "
+        "text": " "
+      },
+      {
+        "translate": "jodek.for_minecraft",
+        "fallback": "for Minecraft"
+      },
+      {
+        "text": " "
       },
       {
         "text": "1.21.11+",
@@ -30,7 +42,11 @@
       },
       "\n",
       {
-        "text": "by "
+        "translate": "jodek.by",
+        "fallback": "by"
+      },
+      {
+        "text": " "
       },
       {
         "text": "Jodek",

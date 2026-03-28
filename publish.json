@@ -1,14 +1,20 @@
 {
-  "project_id": "T6ZDkLZs",
-  "curseforge_project_id": "1429220",
+  "modrinth_id": "T6ZDkLZs",
+  "curseforge_id": "1429220",
+  "curseforge_mod_id": "1429225",
   "curseforge_slug": "sleep-anytime-you-want",
-  "loaders": [
-    "datapack"
-  ],
-  "game_versions": [
-    "1.21.11"
-  ],
+  "loaders": ["datapack"],
+  "game_versions": ["1.21.11", "26.1"],
   "version_type": "release",
-  "dependencies": "",
+  "dependencies": {
+    "datapack": [
+      "5555ff-lib(optional){modrinth:Lr1LVAwO}{curseforge:1495266}",
+      "sleep(required){modrinth:WTzuSu8P}{curseforge:1425632}"
+    ],
+    "mod": [
+      "5555ff-lib(optional){modrinth:Lr1LVAwO}{curseforge:1495273}",
+      "sleep(required){modrinth:WTzuSu8P}{curseforge:1425695}"
+    ]
+  },
   "discord_role_id": "1458241345926992005"
 }

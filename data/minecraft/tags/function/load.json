@@ -1,6 +1,6 @@
 {
   "values": [
-    "sleepanytimeyouwant:app/setup",
-    "sleepanytimeyouwant:app/load_message"
+    "sleep_anytime_you_want:app/setup",
+    "sleep_anytime_you_want:app/load_message"
   ]
 }
