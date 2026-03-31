@@ -22,14 +22,7 @@
         "text": "v1.0.1",
         "color": "green"
       },
-      {
-        "text": "\n"
-      },
-      {
-        "translate": "jodek.game_version",
-        "fallback": "Game version: ",
-        "color": "dark_green"
-      },
+
       {
         "text": "1.21.11+",
         "color": "green"

@@ -17,7 +17,6 @@ function sleep_anytime_you_want:image/set_image_data {\
     {translate: "sleep_anytime_you_want.description", fallback: "Sleep at any time, during day or night. Can also increase tick speed"},\
     "",\
     [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.0.1", color: "#54fc54"}],\
-    [{translate: "jodek.game_version", fallback: "Game version: ", color: "#00a800"}, {text: "1.21.11+", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/sleep-anytime-you-want", color: "#a800a8"},\
