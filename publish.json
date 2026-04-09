@@ -4,7 +4,9 @@
   "curseforge_mod_id": "1429225",
   "curseforge_slug": "sleep-anytime-you-want",
   "loaders": ["datapack"],
-  "game_versions": ["1.21.11", "26.1"],
+  "game_versions": [
+    ">=1.21.6"
+  ],
   "version_type": "release",
   "dependencies": {
     "datapack": [
