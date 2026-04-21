@@ -1,9 +1,8 @@
 {
   "pack": {
-    "min_format": [88, 0],
+    "min_format": [94, 0],
     "max_format": [999, 0],
-    "pack_format": 88,
-    "supported_formats": [88, 999],
+    "pack_format": 94,
     "description": [
       {
         "text": "\"Sleep Anytime You Want\" (sleep_anytime_you_want)"
@@ -42,11 +41,6 @@
   },
   "overlays": {
     "entries": [
-      {
-        "directory": "overlay-94",
-        "min_format": 94,
-        "max_format": 999
-      },
       {
         "directory": "overlay-101",
         "min_format": 101,
