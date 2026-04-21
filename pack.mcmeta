@@ -23,7 +23,7 @@
         "text": " "
       },
       {
-        "text": "1.0.1",
+        "text": "1.0.2",
         "color": "#55ff55"
       },
       "\n",
@@ -37,6 +37,20 @@
       {
         "text": "Jodek",
         "color": "#ffff55"
+      }
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay-94",
+        "min_format": 94,
+        "max_format": 999
+      },
+      {
+        "directory": "overlay-101",
+        "min_format": 101,
+        "max_format": 999
       }
     ]
   }
