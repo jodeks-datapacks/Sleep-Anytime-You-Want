@@ -1,17 +1,10 @@
 {
   "pack": {
-    "min_format": [94, 0],
+    "min_format": [121, 0],
     "max_format": [999, 0],
-    "pack_format": 94,
     "description": [
       {
         "text": "\"Sleep Anytime You Want\" (sleep_anytime_you_want)"
-      },
-      "\n",
-      {
-        "translate": "sleep_anytime_you_want.description",
-        "fallback": "Sleep at any time, during day or night. Can also increase tick speed",
-        "color": "#aaaaaa"
       },
       "\n\n",
       {
@@ -22,7 +15,7 @@
         "text": " "
       },
       {
-        "text": "1.0.4",
+        "text": "1.1.0",
         "color": "#55ff55"
       },
       "\n",
@@ -36,20 +29,6 @@
       {
         "text": "Jodek",
         "color": "#ffff55"
-      }
-    ]
-  },
-  "overlays": {
-    "entries": [
-      {
-        "directory": "overlay-101",
-        "min_format": 101,
-        "max_format": 999
-      },
-      {
-        "directory": "overlay-107.1",
-        "min_format": 107,
-        "max_format": 999
       }
     ]
   }
